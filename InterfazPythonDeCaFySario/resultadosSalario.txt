@@ -1,0 +1,9 @@
+Nombres: Daniel Stiven
+Apellidos: Gomez Hurtado
+Salario Final: 8000000
+Subsidio: 2000000
+Prima: 333333
+Cesantías: 333333
+Intereses: 1667
+Vacaciones: 166667
+Suma Total: 11340000

@@ -1,0 +1,2 @@
+Convertir 5.0 Fahrenheit a Celsius: -15.0 °C
+Convertir 5.0 Celsius a Fahrenheit: 41.0 °F
